@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">French junior developer passionate from Coding and Gaming</h3>
 
-- 🔭 I’m currently working on **Sipa Automobiles Intranet**
+- 🔭 I’m currently looking for an apprenticeship
 
 - 🌱 I’m currently learning **VueJS, PHP, SQL, Java, Angular**
 
